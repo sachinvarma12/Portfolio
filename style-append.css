@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .cert-list-container {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+  }
+  
+  .cert-card-simple {
+    min-height: 140px;
+    padding: 1rem 0.8rem;
+  }
+  
+  .cert-card-simple h3 {
+    font-size: 0.85rem;
+  }
+}

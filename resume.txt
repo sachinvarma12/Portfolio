@@ -1,0 +1,145 @@
+SACHIN VARMA
+Kanpur, India | +91-7505110469 | sachinvarma10106@gmail.com
+GitHub: github.com/sachinvarma12 | LinkedIn: linkedin.com/in/sachin11varma
+Portfolio: sachinvarma123.github.io/word-synonyms-finder/
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented BCA student at PSIT College of Higher Education, Kanpur, with proven expertise in data analysis, web development, and technical problem-solving. Experienced in SQL querying, data validation, pattern identification, and full-stack web development. Seeking entry-level Data Analyst or Web Developer role to leverage analytical thinking, technical skills, and passion for continuous learning to drive organizational success.
+
+CORE COMPETENCIES
+
+Data Analysis: Data validation, transaction review, pattern identification, anomaly detection, SQL querying, Excel analysis
+Business Intelligence: Power BI, data visualization, dashboard creation, KPI tracking, reporting
+Web Development: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, responsive design
+Programming Languages: Python, C, C++, Java, JavaScript
+Database Management: MySQL, MongoDB, database design, query optimization
+Technical Skills: Git, GitHub, VS Code, Data Structures, Algorithms, OOPS, DBMS, Operating Systems
+Machine Learning Exposure: OpenCV, CNN, RNN, content authenticity detection
+
+EDUCATION
+
+Bachelor of Computer Applications (BCA)
+PSIT College of Higher Education, Kanpur
+CGPA: 7.8 (Current) | Expected Graduation: 2026
+
+Senior Secondary (UP Board)
+S.S. Inter College, Auraiya
+Score: 68% | Year: 2023
+
+Secondary (UP Board)
+S.S. Inter College, Auraiya
+Score: 81% | Year: 2021
+
+PROFESSIONAL EXPERIENCE
+
+Web Development Intern
+Octanet Services Pvt. Ltd. | Kanpur, India | Sep 2024 – Oct 2024
+
+Assisted in full-stack web development projects following structured development processes and best practices
+Implemented data input handling, business logic, and frontend components using HTML, CSS, JavaScript
+Conducted code review, documentation, and quality assurance of web applications
+Improved analytical thinking, attention to detail, problem-solving, and professional communication skills
+
+Internshala Student Partner (ISP)
+Internshala | Campus Ambassador | 2025
+
+Selected as Campus Ambassador to promote skill-based learning and internship opportunities
+Engaged students in professional development initiatives and networking opportunities
+Received official Joining Letter recognizing leadership and communication excellence
+
+PROJECTS
+
+AuthenCheck – AI-Powered Deepfake Detection & Misinformation Control Platform
+Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, OpenCV, CNN, RNN, TensorFlow, BERT, RoBERTa
+Status: Academic | Ongoing Development
+
+Developed an intelligent content authenticity detection platform using computer vision and NLP
+Implemented frontend user interface using React.js and Tailwind CSS for responsive design
+Built backend API services using Node.js and Express.js with MongoDB database integration
+Integrated machine learning models (CNN, RNN) for detecting AI-generated and manipulated digital content
+Contributed to full-stack development and gained hands-on exposure to machine learning concepts
+Implemented REST APIs for claim verification and misinformation monitoring
+Enhanced skills in data analysis, anomaly detection, and authentication validation
+
+Synonyms Word Finder – Interactive Web Application
+Technologies: HTML5, CSS3, JavaScript, DOM Manipulation
+
+Developed a live web application providing real-time synonym suggestions for user-entered words
+Implemented structured input validation and data processing using vanilla JavaScript
+Designed clean, user-friendly interface with responsive CSS and interactive feedback
+Optimized application for performance and cross-browser compatibility
+Live Demo: sachinvarma123.github.io/word-synonyms-finder/
+
+Data Analysis & Reporting – Academic Exposure
+Technologies: Excel, SQL, Power BI, Python
+
+Performed comprehensive data cleaning and validation on multiple datasets
+Wrote SQL queries for data extraction, transformation, and analysis
+Created pivot tables and data visualizations for pattern identification
+Identified anomalies and trends in datasets for reporting and presentation
+Developed analytical reports with actionable insights and recommendations
+
+TECHNICAL SKILLS
+
+Data Analysis & Business Intelligence
+- Excel: VLOOKUP, INDEX-MATCH, Pivot Tables, data validation, formula development
+- SQL: SELECT, WHERE, JOIN, GROUP BY, aggregate functions, data cleaning, query optimization
+- Power BI: interactive reports, KPI tracking, dashboard creation, data visualization
+- Python: Pandas, NumPy, data exploration, visualization libraries
+- Data Validation: transaction review, anomaly detection, pattern identification, reporting
+
+Web Development & Programming
+- Frontend: HTML5 semantic markup, CSS3 layouts, JavaScript ES6+, React.js, Tailwind CSS, responsive design
+- Backend: Node.js, Express.js, REST APIs, server-side logic, database integration
+- Programming: Python, C, C++, Java with focus on algorithms and data structures
+- Version Control: Git, GitHub, branching, collaboration, pull requests
+
+Database & Backend
+- Relational: MySQL, schema design, normalization, query optimization
+- NoSQL: MongoDB, document-based modeling, CRUD operations
+- Database Concepts: DBMS fundamentals, indexing, transactions, ACID properties
+
+Machine Learning & AI
+- Computer Vision: OpenCV, image processing, content authenticity detection
+- Deep Learning: CNN, RNN, neural network fundamentals
+- NLP Frameworks: BERT, RoBERTa, transformer models, text analysis
+
+Developer Tools & Platforms
+- IDEs: VS Code, debugging, extensions
+- Version Control: Git, GitHub, collaborative development
+- Platforms: GitHub Pages, web deployment, hosting
+- Operating Systems: Windows, Linux command-line proficiency
+
+CERTIFICATIONS & TRAINING
+
+Commercial Project Manager Job Simulation – Forage | 2024
+
+HTML5 & CSS Fundamentals – Infosys Springboard | 2024
+
+Bootstrap Framework – Infosys Springboard | 2024
+
+Web Development Essentials – Internshala | 2024
+
+Typing Skill Certificate – India Typing | 2023
+
+ACHIEVEMENTS & ACTIVITIES
+
+Internshala Student Partner (ISP) – Official Joining Letter Recipient | 2025
+- Selected among competitive pool for campus ambassador role
+- Demonstrated leadership, communication, and professional networking skills
+
+Participant – International Conference | Feb 2024
+Theme: "India: A 5 Trillion Dollar Economy – Challenges and Gateways"
+- Attended prestigious academic conference on economic policy and development
+- Gained insights into macroeconomic trends and business opportunities
+
+Internship Common Aptitude Test (LCAT) – Qualified Participant | 2025
+- Cleared competitive aptitude assessment for internship eligibility
+- Demonstrated analytical and problem-solving capabilities
+
+ADDITIONAL INFORMATION
+
+Languages: English (Fluent), Hindi (Native)
+Availability: Immediate
+Willingness to Relocate: Yes
